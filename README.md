@@ -6,7 +6,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YoumnaSalloum&show_icons=true&locale=en" alt="YoumnaSalloum" /></p>
 
-
 <p align="center">
 #### Languages and Tools
 
@@ -18,9 +17,8 @@
 - <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg" /> Elm
 - <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> React
 - <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> Node.js
--  <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
--  <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
-          
+- <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+- <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />          
 </p>
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
