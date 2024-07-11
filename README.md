@@ -6,7 +6,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YoumnaSalloum&show_icons=true&locale=en" alt="YoumnaSalloum" /></p>
 
-<p align="center">
+<p align="left">
 #### Languages and Tools
 
 - <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> Golang
